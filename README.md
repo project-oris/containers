@@ -29,7 +29,7 @@ Orin/run_jetson_humble.sh
 - Seungtae Hong   (sthong@etri.re.kr)
 - Gunju Park      (parkgj@etri.re.kr)
 - YouJin Kim      (youjin@etri.re.kr)
-- Sungjae JEON    (sjjeon@etri.re.kr)
+- Sungjae JEON    (sjjeon@etri.re.kr) 
 
 ## Contributing
 
