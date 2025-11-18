@@ -23,6 +23,13 @@ Run the created build image using the provided shell script.
 ```bash
 Orin/run_jetson_humble.sh
 ```
+## Authors
+- Byoung-Youl Song (sby@etri.re.kr, parasby@gmail.com)
+- Jeong-Si Kim    (sikim00@etri.re.kr)
+- Seungtae Hong   (sthong@etri.re.kr)
+- Gunju Park      (parkgj@etri.re.kr)
+- YouJin Kim      (youjin@etri.re.kr)
+- Sungjae JEON    (sjjeon@etri.re.kr)
 
 ## Contributing
 
